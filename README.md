@@ -1,0 +1,2 @@
+# -for-hexo
+zhangyijian.cn
